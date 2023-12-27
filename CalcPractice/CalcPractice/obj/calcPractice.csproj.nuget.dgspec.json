@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\calcPractice\\calcPractice\\calcPractice.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\CalcPractice\\calcPractice\\calcPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\calcPractice\\calcPractice\\calcPractice.csproj": {
+    "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\CalcPractice\\calcPractice\\calcPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\calcPractice\\calcPractice\\calcPractice.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\CalcPractice\\calcPractice\\calcPractice.csproj",
         "projectName": "calcPractice",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\calcPractice\\calcPractice\\calcPractice.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\CalcPractice\\calcPractice\\calcPractice.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\calcPractice\\calcPractice\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Workspace\\winformCalc\\CalcPractice\\calcPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
