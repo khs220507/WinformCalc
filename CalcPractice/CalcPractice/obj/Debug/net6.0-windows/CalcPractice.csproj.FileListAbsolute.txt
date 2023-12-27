@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\bin\Debug\net6.0-windows\CalcPractice.exe
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\bin\Debug\net6.0-windows\CalcPractice.deps.json
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\bin\Debug\net6.0-windows\CalcPractice.runtimeconfig.json
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\bin\Debug\net6.0-windows\CalcPractice.dll
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\bin\Debug\net6.0-windows\CalcPractice.pdb
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.Form1.resources
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.AssemblyInfo.cs
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.dll
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\refint\CalcPractice.dll
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.pdb
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\CalcPractice.genruntimeconfig.cache
+C:\Users\PC\Desktop\Workspace\winformCalc\CalcPractice\CalcPractice\obj\Debug\net6.0-windows\ref\CalcPractice.dll
